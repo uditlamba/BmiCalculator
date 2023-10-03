@@ -1,0 +1,15 @@
+.container{
+    background-color: gray;
+}
+#button{
+    padding: 10px;
+    margin-left: 100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius: 5px;
+
+}
+.guide{
+    margin-left: 50px;
+}
